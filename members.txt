@@ -4,4 +4,8 @@ Epost:hugo.wass.3275@student.uu.se
 
 Användare på github: Sanna02
 Namn: Sanna Einarsson
-Epost: sanna.einarsson4413@student.se
+Epost: sanna.einarsson.4413@student.se
+
+Användare på github: Michago6
+Namn: Misha Magnusson
+Epost: misha.magnusson.4534@student.uu.se
